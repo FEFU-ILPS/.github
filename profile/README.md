@@ -1,12 +1,19 @@
-## Hi there 👋
+## 📋 Информация
+Данная организация была создана в рамках бакалаврской дипломной работы студентов Дальневосточного федерального университета (ДВФУ).
 
-<!--
+## 🙎‍♂️ Участники
+**Студенты группы Б9121-09.03.04(4) "Программная инженерия".**
 
-**Here are some ideas to get you started:**
+| Участник | Команда | Деятельность | Telegram |
+| --- | --- | --- | --- |
+| Башинский Руслан Александрович | [Development](https://github.com/orgs/FEFU-Diploma-Bashinskii-Tertekhin/teams/development) | Написание кода, развертываение инфраструктуры | @Oidaho |
+| Терёхин Богдан Денисович | [Development](https://github.com/orgs/FEFU-Diploma-Bashinskii-Tertekhin/teams/development) | Написание кода, обучение нейронной модели | @Y_a_t_o_c_h_k_a |
+| Виноградов Владимир Алексеевич* | [Testing and Documentation](https://github.com/orgs/FEFU-Diploma-Bashinskii-Tertekhin/teams/testing-and-documentation) | Написание тестов и документации | @DikiyTaburet |
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+\* \- участники, не относящиеся к дипломной работе напрямую. Они принимали(ют) участие в развитии проекта с точки зрения закрытия других дисциплин.
+  
+
+## 🔗 Ссылки
+[Сайт ДВФУ](https://www.dvfu.ru/)
+
