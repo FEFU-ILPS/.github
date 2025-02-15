@@ -18,7 +18,10 @@
 
 **Стек технологий**:
 - Python
-- ...
+  - FastAPI
+  - Uvicorn 
+- TypeScript
+  - Angular 
 
 
 
