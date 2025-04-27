@@ -28,9 +28,9 @@
 
 ## ❗ Главный репозиторий
 
-<div align="center">
+<div align="center" width="50%">
     <a href="https://github.com/FEFU-ILPS/ILPS" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FEFU-ILPS&repo=ILPS&show_icons=true&border_radius=20&theme=github_dark&hide_border=true&show_owner=true&description_lines_count=1" alt="ILPS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FEFU-ILPS&repo=ILPS&show_icons=true&border_radius=20&theme=dark&hide_border=false&show_owner=true&description_lines_count=10" alt="ILPS">
     </a>
 </div>
 
