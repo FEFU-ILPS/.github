@@ -24,7 +24,14 @@
   - SQLAlchemy
   - PyJWT
 - Kotlin
-  - ...
+  - Jetpack Compose
+  - Multi module architecture
+  - MVVM
+  - Room
+  - Retrofit
+  - Dagger hilt
+  - Data store
+  - Paging 3
 
 ## ❗ Главный репозиторий
 
